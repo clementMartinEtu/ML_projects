@@ -17,9 +17,14 @@
 
 | Lab |
 |-----|
-| Lab 1 |
-| Lab 2 |
-| Lab 3 |
+| Classification KNN |
+| Linear Regression |
+| Regularization and Gradient Descent |
+| Unsupervised learning |
+| Empirical Exploration |
+| Egg-Yolk $\rightarrow$ Linear |
+| Ensemble methods |
+
 
 ---
 
@@ -66,4 +71,3 @@
 
 **[Clément Martin]**  
 Master's in [Data Science] · [Centrale Lille]  
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
